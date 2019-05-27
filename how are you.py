@@ -1,2 +1,2 @@
-# This program prints Roza lag rha hai
-print("roza lag rha hai")
+# This program prints How are you
+print("how are you")
